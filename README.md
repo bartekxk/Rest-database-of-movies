@@ -1,4 +1,4 @@
-# Rest api for movies database implement in Django,
+# Rest api for movies database implement in Django
 The application has three subpages
 
 ## /movies
